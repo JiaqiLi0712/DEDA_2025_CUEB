@@ -19,7 +19,6 @@
 
 研究结果表明，新兴市场仍存在充电基础设施不足的问题，而有效的政策措施能够显著推动电动汽车市场的发展。
 
----
 
 ## 分析方法
 
@@ -34,7 +33,6 @@
 - 词频分析与词云分析（Word Frequency & Word Cloud Analysis）
 - 回归分析（Regression Analysis）
 
----
 
 ## 关键词
 
@@ -49,8 +47,6 @@
 - 政策影响（Policy Impact）
 - 电池技术（Battery Technology）
 - 市场细分（Market Segmentation）
-
----
 
 ## 输出结果
 
@@ -102,8 +98,6 @@ Furthermore, LDA topic modeling identifies major themes influencing EV developme
 
 The findings highlight infrastructure gaps in emerging markets and demonstrate the effectiveness of policy interventions in accelerating global EV adoption.
 
----
-
 ## Methodology
 
 The following analytical methods are applied in this project:
@@ -116,8 +110,6 @@ The following analytical methods are applied in this project:
 - Latent Dirichlet Allocation (LDA) Topic Modeling
 - Word Frequency and Word Cloud Analysis
 - Regression Analysis
-
----
 
 ## Keywords
 
@@ -133,7 +125,6 @@ The following analytical methods are applied in this project:
 - Battery Technology
 - Market Segmentation
 
----
 
 ## Outputs
 
